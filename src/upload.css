@@ -1,0 +1,8 @@
+.backgroundImage{
+    width: 100%!important;
+    height: 95vh!important;
+    background-image: url('./img/loin.jpg')!important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
